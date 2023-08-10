@@ -132,7 +132,7 @@
 - Comandos utilizados:
 
         echo "Este es el archivo 1" > ~/archivo1.txt
-nbsp;
+&nbsp;
 
 ##### Crea un directorio llamado `directorio1` y dentro de ese directorio, un archivo llamado `archivo2.txt`.
 
